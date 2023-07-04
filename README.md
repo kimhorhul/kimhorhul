@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kimhor</h1>
 <h3 align="center">A football fan who can turn caffeine into code</h3>
 
-- 🌱 I’m currently learning **machine learning **
+- 🌱 I’m currently learning **machine learning**
 
 - 💬 Ask me about **server side and vue**
 
